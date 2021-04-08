@@ -1,0 +1,11 @@
+top_left_corner_x = 893
+top_left_corner_y = 462
+gap = 974 - 966
+square_size = 966 - 893
+bottom_right_corner_x = 1292
+bottom_right_corner_y = 854
+character_margin_top = 0
+character_margin_bottom = 10
+character_margin_left = 10
+character_margin_right = 0
+board_size = 5
